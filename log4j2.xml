@@ -1,0 +1,8 @@
+<xml>  
+	<title> </title> 
+	<smsStr>你好，你有福利未领取，</smsStr>
+	<startUrl>https://www.baidu.com?pnum=</startUrl>
+	<smsEnd>，回T退订</smsEnd>  
+	<inFile>D:\short_url_input.txt"</inFile>
+	<outFile>D:\short_url_out.txt</outFile>  
+ </xml>
